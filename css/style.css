@@ -1,0 +1,53 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+
+body {
+    background-color: blanchedalmond;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 1px solid black;
+    margin: 5px;
+}
+
+.images {
+    width: 400px;
+    height: 500px;
+    border: 10px solid;
+    margin: 10px;
+    border-image-repeat: stretch;
+    border-image-slice: 33%;
+    border-image-source: url(../image/ua-flag-border.png);
+}
+
+.center {
+    text-align: center;
+}
+
+.align-one {
+    position:relative; 
+    top: -25px;
+    left: 0px;
+    margin-left: 0px;
+    margin-right: 430px;
+}
+
+.align-two {
+    position:relative; 
+    top: -93.5px;
+    left: 0px;
+    margin-left: 0px;
+    margin-right: 630px;
+} 
+
+.p-text {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.button {
+    text-align: center;
+    text-decoration: none;
+}
