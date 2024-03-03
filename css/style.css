@@ -37,10 +37,10 @@ body {
 
 .align-two {
     position:relative; 
-    top: -93.5px;
+    top: -73px;
     left: 0px;
-    margin-left: 0px;
-    margin-right: 630px;
+    margin-left:450px;
+    margin-right:0px;
 } 
 
 .p-text {
